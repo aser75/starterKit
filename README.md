@@ -14,7 +14,7 @@ Avec pour dépendance <br>
 </ul><br>
 <strong>Step 2</strong><br>
 <pre><code>gulp watch</code></pre>
-<br>Or<br>
+Or<br>
 <pre><code>gulp prod</code></pre>
 
 <br><br><https://aserweb.fr>
