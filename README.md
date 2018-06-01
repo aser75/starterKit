@@ -13,6 +13,8 @@ Avec pour dépendance <br>
 <li>Slick-carousel</li>
 </ul><br>
 <strong>Step 2</strong><br>
-<pre><code>gulp watch<br>Or<br>gulp prod</code></pre>
+<pre><code>gulp watch</code></pre>
+<br>Or<br>
+<pre><code>gulp prod</code></pre>
 
 <br><br><https://aserweb.fr>
