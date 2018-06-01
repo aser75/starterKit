@@ -1,0 +1,29 @@
+{
+  "name": "aser",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxence Puppetto",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-cssbeautify": "latest",
+    "gulp-csscomb": "latest",
+    "gulp-csso": "latest",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-load-plugins": "latest",
+    "gulp-minify": "^1.0.0",
+    "gulp-rename": "latest",
+    "gulp-stylus": "latest"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "latest",
+    "jquery": "^3.3.1",
+    "slick-carousel": "^1.6.0"
+  }
+}
